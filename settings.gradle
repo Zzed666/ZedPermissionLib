@@ -1,0 +1,3 @@
+rootProject.name='ZedPermission'
+include ':app'
+include ':zedpermissionlib'
